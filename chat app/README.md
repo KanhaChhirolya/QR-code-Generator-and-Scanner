@@ -1,10 +1,10 @@
 <div align="center" > 
 <h2>QR Scanner and Analyser<h2>
-<img width="30%" src="https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/qrlogo.png"><br><br>
+<img width="30%" src=""><br><br>
 
+Frontend Link QR Code: 
 
-
-
+<img width="30%" src=""><br>
 Frontend Link: https://qr-code-chimp.netlify.app/ <br> <br>
 Backend Link: https://backend-deploy-km65.onrender.com/ <br> <br>
 </div>
@@ -55,46 +55,33 @@ Node.js,Express.js (Framework) <br>
     
     QR DETAILS:     /
     QR DOWNLOAD:    /download
-    
-    Google Oauth:   oauth/auth/google
-    FB Oauth:       fboauth/auth/facebook
-    
-   <br><br>
-   <h2>Team</h2>
-   <h3>Aditya Raj</h3>
-   <h3>Kanha Chhiroliya</h3>
-   <h3>Ramanand Tiwari</h3>
-   <h3>Atir Khan</h3>
-   <h3>Rajaneesh Yadav</h3>
-   <br><br>
-   
 
 
     
   <h1>1.  Home Page  </h1><br><br>
   
-![Home 1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(586).png)
+![Home 1]()
 
-  ![home 2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(587).png)
+  ![home 2]()
 
-  ![home 3](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(588).png)
+  ![home 3]()
 
   <h1>2. Login  </h1>
   <br><br>
   
-  ![login](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(589).png)
+  ![login]()
   
   <h1>3. Signup  </h1>
   <br><br>
   
-  ![signup](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(590).png)
+  ![signup]()
   
   <h1>4. QR Code Generator  </h1>
   <br><br>
   
-  ![image](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(591).png)
+  ![image]()
 
-  ![image](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(592).png)
+  ![image]()
 
   <h1>5. QR Code Scanner  </h1>
   <br><br>
@@ -104,11 +91,9 @@ Node.js,Express.js (Framework) <br>
   <h1>6. Admin  </h1>
   <br><br>
   
-  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  ![Admin]()
   
-  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
-  
-  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
+  ![Admin1]()
   
   
 

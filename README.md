@@ -1,5 +1,8 @@
+ ORIGNAL REOP - [LINK](https://github.com/adityagithubraj/-direful-order-8525) WHERE I CONTRIBUTED IN THIS PROJECT 
+
 <div align="center" > 
 <h2>QR Scanner and Analyser<h2>
+
 <img width="30%" src="https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/qrlogo.png"><br><br>
 
 
